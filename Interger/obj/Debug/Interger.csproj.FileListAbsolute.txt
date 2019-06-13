@@ -1,0 +1,9 @@
+C:\cSharp\Interger\Interger\bin\Debug\Interger.exe.config
+C:\cSharp\Interger\Interger\bin\Debug\Interger.exe
+C:\cSharp\Interger\Interger\bin\Debug\Interger.pdb
+C:\cSharp\Interger\Interger\obj\Debug\Interger.Integer.resources
+C:\cSharp\Interger\Interger\obj\Debug\Interger.Properties.Resources.resources
+C:\cSharp\Interger\Interger\obj\Debug\Interger.csproj.GenerateResource.cache
+C:\cSharp\Interger\Interger\obj\Debug\Interger.csproj.CoreCompileInputs.cache
+C:\cSharp\Interger\Interger\obj\Debug\Interger.exe
+C:\cSharp\Interger\Interger\obj\Debug\Interger.pdb
