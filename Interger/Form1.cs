@@ -37,8 +37,7 @@ namespace Interger {
 
                if(ValidaNota == "9")
                 {
-                   MessageBox.Show("UPDATE LOJA_NOTA_FISCAL SET DATA_PARA_TRANSFERENCIA =" +
-                                    " GETDATE() WHERE NF_NUMERO ='"+NumeroNota+"' AND YEAR(EMISSAO) = YEAR(GETDATE())"+
+                   MessageBox.Show("UPDATE LOJA_NOTA_FISCAL SET DATA_PARA_TRANSFERENCIA = GETDATE() WHERE NF_NUMERO ='"+NumeroNota+"' AND YEAR(EMISSAO) = YEAR(GETDATE())"+
                                      "AND MONTH(EMISSAO) = MONTH(GETDATE())");
                 }
                 else
